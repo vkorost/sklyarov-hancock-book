@@ -72,7 +72,7 @@ The unfalsifiability, in these cases, is not in the hypothesis. It is in the acc
 
 There is a difference between a claim that cannot be tested and a claim that has not been tested. The first is an epistemological problem. The second is a sociological one. Sklyarov was clear about which one he faced. He wrote, across multiple books, that the gap between what the evidence implied and what available analytical methods could directly confirm was “the honest central limitation” of his body of work, and he identified it as the primary obstacle to mainstream acceptance.
 
-He died in 2016 at the age of fifty-five. The tests he specified were never performed.
+The tests he specified were never performed.
 
 Hancock faces a version of the same gap, though his version has a different shape.
 
@@ -94,7 +94,7 @@ The samples were analyzed by scanning electron microscope. In the surface residu
 
 Sklyarov labeled these results “preliminary.” He noted that full analysis was pending. He noted that additional samples from the same site would be needed, and that comparison with samples from other sites showing similar marks would be necessary to rule out contamination or coincidence. He called for wavelength-dispersive X-ray analysis, a more precise technique than the standard energy-dispersive method.
 
-The full analysis was never completed. Sklyarov died in 2016. The Laboratory of Alternative History continued to operate for a time after his death, but the institutional capacity to conduct follow-up laboratory work was limited even before he died and diminished after. The preliminary result from Masuda-iwafun sits in the published record, in a Russian-language book that has been read by a few hundred enthusiasts, as an unverified data point of potentially extraordinary significance.
+The full analysis was never completed. The Laboratory of Alternative History continued to operate, but the institutional capacity to conduct follow-up laboratory work was limited and diminished over time. The preliminary result from Masuda-iwafun sits in the published record, in a Russian-language book that has been read by a few hundred enthusiasts, as an unverified data point of potentially extraordinary significance.
 
 Think about what this means. A scanning electron microscope found, on the surface of an ancient carved granite monolith in Japan, a particle of an alloy that matches modern industrial stone-cutting compounds and matches no known ancient metallurgy. The finding has not been replicated, has not been peer-reviewed, has not been subjected to the ordinary processes by which a scientific result becomes established. It exists in a kind of evidentiary limbo: too specific to ignore, too unverified to cite, too institutionally orphaned to ever be followed up by the kind of laboratory that could either confirm or bury it.
 
@@ -162,7 +162,7 @@ Sklyarov, in the methodology section of his corpus, put it with the directness o
 
 Honest is the important word. He did not pretend the limitation did not exist. He did not claim that morphological analysis was equivalent to chemical analysis. He did not close the Sampling Gap with rhetoric. He described it, measured it, and left it open.
 
-This is, in a way, the most Sklyarov-like thing about Sklyarov. A man trained at the Moscow Institute of Physics and Technology, in a system that drilled into its students the absolute primacy of measured evidence over theoretical preference, who spent twenty years accumulating photographic and morphological data that pointed toward a conclusion he could not chemically confirm, who described the limitation in the same calibrated language he used for everything else, and who died without seeing the test performed.
+This is, in a way, the most Sklyarov-like thing about Sklyarov. A man trained at the Moscow Institute of Physics and Technology, in a system that drilled into its students the absolute primacy of measured evidence over theoretical preference, who spent twenty years accumulating photographic and morphological data that pointed toward a conclusion he could not chemically confirm, who described the limitation in the same calibrated language he used for everything else, and whose specified tests remain unperformed.
 
 Hancock is still alive. His version of the Sampling Gap (the uninvestigated continental shelves, the unsurveyed Sahara, the unexcavated Amazon) is still open. The test, in his case, is not a spectrometer but an expedition, not a laboratory but a research vessel. He has been calling for systematic underwater archaeology of the drowned continental margins for over two decades. The call has not been answered on the scale he proposes, though individual underwater projects at specific sites have produced results that he cites as encouraging.
 

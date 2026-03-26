@@ -154,4 +154,4 @@ The people in the mud-brick tombs at Abydos did not spend their lives in despair
 
 Both Hancock and Sklyarov, each in his own way, spent a career facing backward: toward the cliff, toward the question of what was up there before the fall. Both asked who built the structures at the top. Both asked how the capability was lost. Both asked whether the loss was permanent.
 
-Neither lived long enough to see the tests performed that would have answered them. The cliff remains. The questions remain. And the mud-brick world on this side of it, the world we inhabit, continues to build what it can with the tools it has, in the neighborhood of something extraordinary that it did not make and cannot yet explain.
+The tests that would answer those questions remain unperformed. The cliff remains. The questions remain. And the mud-brick world on this side of it, the world we inhabit, continues to build what it can with the tools it has, in the neighborhood of something extraordinary that it did not make and cannot yet explain.

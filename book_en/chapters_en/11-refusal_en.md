@@ -52,7 +52,7 @@ The specifics matter more than the generalization.
 
 Sklyarov documented tool marks at multiple sites in Egypt (2004 and subsequent expeditions), Peru and Bolivia (2007), Mexico (2007 and 2008), Turkey and Syria (2009 and 2012), Ethiopia (2008), Japan (2013), and Easter Island (2013). At nearly every site, his team was restricted to photographing and visually measuring from permitted tourist paths. The Easter Island confrontation described in Chapter 3, where a team member stepped off the path to photograph a saw-cut mark on a pukao, produced a photograph. It did not produce a sample.
 
-At the Masuda-Iwafune site in Japan, described in Chapter 3, his team obtained the one surface sample that produced a preliminary SEM result. The full analysis was never completed. Sklyarov died two years later.
+At the Masuda-Iwafune site in Japan, described in Chapter 3, his team obtained the one surface sample that produced a preliminary SEM result. The full analysis was never completed.
 
 Schoch, whose work was described in Chapter 10, has publicly requested permission to conduct geological sampling of the Sphinx enclosure walls. The sampling would be minimally invasive: small core samples from the bedrock, analyzed for weathering patterns that would definitively establish whether the erosion was caused by precipitation or by salt crystallization. The samples would provide data that both sides of the debate agree would be conclusive. The Egyptian authorities have not granted the request. The request has been outstanding for over three decades.
 
@@ -120,7 +120,7 @@ In archaeology, The Refusal does not have a body count. No one dies because the 
 
 But the researchers are.
 
-Klaus Schmidt, whose encounter with Hancock at Gobekli Tepe was described in Chapter 10, died in 2014. John Anthony West, who translated Schwaller de Lubicz’s observation about the Sphinx erosion into a testable hypothesis and spent decades looking for a geologist to test it, died in 2018. Andrey Sklyarov, who specified the surface-chemistry tests that would confirm or refute his claims about ancient tool technologies, died in 2016 at the age of fifty-five. His preliminary findings from Japan were never followed up. His sampling protocols were never executed. His central physical claim remains exactly where it was on the day he died: stated, specified, untested.
+Klaus Schmidt, whose encounter with Hancock at Gobekli Tepe was described in Chapter 10, died in 2014. John Anthony West, who translated Schwaller de Lubicz’s observation about the Sphinx erosion into a testable hypothesis and spent decades looking for a geologist to test it, died in 2018. Andrey Sklyarov, who specified the surface-chemistry tests that would confirm or refute his claims about ancient tool technologies, specified those tests in print, in detail, across multiple books. His preliminary findings from Japan were never followed up. His sampling protocols were never executed. His central physical claim remains exactly where it has always been: stated, specified, untested.
 
 The stones are not going anywhere. The people are.
 
@@ -138,7 +138,7 @@ The mainstream responds: submit the proposal through proper channels. The altern
 
 The loop closes again.
 
-The loop may not have a simple solution. No policy proposal for reforming archaeological permitting structures will appear in these pages. No plan for funding the tests that Sklyarov specified before he died. No mechanism for bridging the gap between the alternative community’s observational record and the mainstream’s quantitative standards.
+The loop may not have a simple solution. No policy proposal for reforming archaeological permitting structures will appear in these pages. No plan for funding the tests that Sklyarov specified. No mechanism for bridging the gap between the alternative community’s observational record and the mainstream’s quantitative standards.
 
 But the description alone is enough to make a point that should trouble anyone who cares about how knowledge advances.
 
@@ -152,9 +152,9 @@ Barry Marshall broke through The Refusal by making himself the experiment. He sw
 
 The technology to perform the critical tests non-destructively, without sample collection, without physical contact with the artifact, now exists. Portable XRF can read elemental composition from a stone surface in seconds. Handheld laser-induced breakdown spectrometers can identify alloy residues at parts-per-million sensitivity. Multi-spectral imaging can map surface chemistry across an entire wall face from a distance of several meters. The instruments that Sklyarov would have needed to convert his observations into data now fit in a carry-on bag.
 
-The question is no longer whether the tests can be done. The question is whether anyone will do them. And the answer to that question depends not on the evidence, not on the technology, and not on the scientific merit of the claims. It depends on The Refusal. On whether the thousand small decisions continue to accumulate in the same direction they have accumulated for the last three decades. On whether the filter continues to operate on source rather than content. On whether the architecture of non-investigation remains in place while the people who identified the questions continue to die.
+The question is no longer whether the tests can be done. The question is whether anyone will do them. And the answer to that question depends not on the evidence, not on the technology, and not on the scientific merit of the claims. It depends on The Refusal. On whether the thousand small decisions continue to accumulate in the same direction they have accumulated for the last three decades. On whether the filter continues to operate on source rather than content. On whether the architecture of non-investigation remains in place while the questions themselves grow older.
 
-Sklyarov died in 2016. His tests remain unperformed.
+Sklyarov’s tests remain unperformed.
 
 Schoch is still alive. His core-sampling proposal remains unapproved.
 

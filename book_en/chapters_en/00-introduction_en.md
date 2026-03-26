@@ -78,9 +78,9 @@ Every chapter of this book examines one facet of that divergence. Every chapter 
 
 This is not a debunking book. It is not an endorsement. It is a book about what happens at the boundary between evidence and explanation, where the data runs out and the human being continues. That boundary exists in archaeology. It also exists in medicine, in criminal justice, in climate science, in every field where the evidence is incomplete and serious people must decide what it means. The Hancock/Sklyarov divergence is a case study in a universal phenomenon: the gap between what we know and what we conclude, and the invisible autobiography that fills it.
 
-One more thing. Andrey Sklyarov died in 2016 at the age of fifty-five. His central claims remain untested. The samples he wanted analyzed were never analyzed. The surface chemistry he wanted measured was never measured. The institutional gatekeepers who controlled access to the stones never let him close enough to perform the experiments that would have confirmed or refuted his hypotheses. He specified the tests. He offered to fund them. The answer was no. It was always no.
+One more thing. Andrey Sklyarov's central claims remain untested. The samples he wanted analyzed were never analyzed. The surface chemistry he wanted measured was never measured. The institutional gatekeepers who controlled access to the stones never let him close enough to perform the experiments that would have confirmed or refuted his hypotheses. He specified the tests. He offered to fund them. The answer was no. It was always no.
 
-The technology to perform those tests non-destructively, without institutional permission, without touching the stones, now fits in a handheld device. It arrived too late for Sklyarov. It arrives in time for everyone else.
+The technology to perform those tests non-destructively, without institutional permission, without touching the stones, now fits in a handheld device. It arrives in time for anyone willing to ask the question.
 
 Graham Hancock is still alive. Still writing. Still arguing. Still filling the gap with his particular vision of lost human greatness. He has publicly abandoned hypotheses that failed and continued working. His corpus shows a pattern of revision under pressure from evidence that later chapters will examine in detail.
 
