@@ -32,88 +32,85 @@ This is the *fastest way* into the material. If you do not want to read a 12-cha
 
 ## Repository Structure
 
-```
-sklyarov-hancock-book/
-  README.md
-  same_stones_book_cover.jpg
-  book_en/
-    Same_Stones_Different_Gods_EN.epub
-    Same_Stones_Different_Gods_EN.md
-    Same_Stones_Different_Gods_EN.pdf
-    chapters_en/
-      00-introduction_en.md        # "The AI Confession"
-      01-tolerance-problem_en.md
-      02-competence-inversion_en.md
-      03-sampling-gap_en.md
-      04-convergent-catastrophe_en.md
-      05-species-question_en.md
-      06-cargo-cult_en.md
-      07-consciousness-fork_en.md
-      08-withdrawal_en.md
-      09-forty-books_en.md
-      10-invisible-college_en.md
-      11-refusal_en.md
-      12-the-gap_en.md
-      13-sources_en.md
-      14-author-note_en.md
-    podcast_en/
-      Hancock_Sklyarov_Podcast_EN.epub
-      Hancock_Sklyarov_Podcast_EN.md
-      Hancock_Sklyarov_Podcast_EN.pdf
-  book_ru/
-    Same_Stones_Different_Gods_RU.epub
-    Same_Stones_Different_Gods_RU.md
-    Same_Stones_Different_Gods_RU.pdf
-    chapters_ru/
-      00-introduction_ru.md through 14-author-note_ru.md
-    podcast_ru/
-      Hancock_Sklyarov_Podcast_RU.epub
-      Hancock_Sklyarov_Podcast_RU.md
-      Hancock_Sklyarov_Podcast_RU.pdf
-  research/
-    book_concept_gladwell_two_frameworks.md
-    divergences_index.md
-    hancock_references_in_sklyarov.md
-```
+### English Book (`book_en/`)
 
-## Book Structure
+| File                                                                             | Description                         |
+| -------------------------------------------------------------------------------- | ----------------------------------- |
+| [Same_Stones_Different_Gods_EN.md](book_en/Same_Stones_Different_Gods_EN.md)     | Full manuscript, readable on GitHub |
+| [Same_Stones_Different_Gods_EN.pdf](book_en/Same_Stones_Different_Gods_EN.pdf)   | Formatted PDF for download          |
+| [Same_Stones_Different_Gods_EN.epub](book_en/Same_Stones_Different_Gods_EN.epub) | EPUB for e-readers                  |
 
-### Part One: The Convergence (Chapters 1 to 4)
+### English Chapters (`book_en/chapters_en/`)
 
-What they agree on, and why that agreement is remarkable given that they worked independently in different languages on different continents.
+| File                                                                                   | Description                                                |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| [00-introduction_en.md](book_en/chapters_en/00-introduction_en.md)                     | "The AI Confession": how and why this book was built by AI |
+| [01-tolerance-problem_en.md](book_en/chapters_en/01-tolerance-problem_en.md)           | When measured precision exceeds credited tools             |
+| [02-competence-inversion_en.md](book_en/chapters_en/02-competence-inversion_en.md)     | The oldest layers are the most sophisticated               |
+| [03-sampling-gap_en.md](book_en/chapters_en/03-sampling-gap_en.md)                     | Mainstream archaeology's avoidance of physical sampling    |
+| [04-convergent-catastrophe_en.md](book_en/chapters_en/04-convergent-catastrophe_en.md) | Two catastrophe models, one evidence base                  |
+| [05-species-question_en.md](book_en/chapters_en/05-species-question_en.md)             | Human builders vs. non-human builders                      |
+| [06-cargo-cult_en.md](book_en/chapters_en/06-cargo-cult_en.md)                         | Benevolent survivors vs. self-interested operators         |
+| [07-consciousness-fork_en.md](book_en/chapters_en/07-consciousness-fork_en.md)         | Ayahuasca research vs. engineering materialism             |
+| [08-withdrawal_en.md](book_en/chapters_en/08-withdrawal_en.md)                         | Where each researcher fills the gap with who they are      |
+| [09-forty-books_en.md](book_en/chapters_en/09-forty-books_en.md)                       | The scale of combined output no institution will engage    |
+| [10-invisible-college_en.md](book_en/chapters_en/10-invisible-college_en.md)           | Independent researchers outside institutional structures   |
+| [11-refusal_en.md](book_en/chapters_en/11-refusal_en.md)                               | Why mainstream archaeology will not test the claims        |
+| [12-the-gap_en.md](book_en/chapters_en/12-the-gap_en.md)                               | The space between evidence and explanation                 |
+| [13-sources_en.md](book_en/chapters_en/13-sources_en.md)                               | Bibliography and source documentation                      |
+| [14-author-note_en.md](book_en/chapters_en/14-author-note_en.md)                       | Author's note                                              |
 
-- **Chapter 1: The Tolerance Problem.** When measured precision exceeds the tolerances achievable by credited tools and techniques.
-- **Chapter 2: The Competence Inversion.** The oldest construction layers are the most sophisticated, the reverse of what developmental models predict.
-- **Chapter 3: The Sampling Gap.** Mainstream archaeology's systematic avoidance of physical sampling at contested sites.
-- **Chapter 4: The Convergent Catastrophe.** Both researchers accept a global catastrophe; their mechanisms differ but their evidence converges.
+### English Podcast (`book_en/podcast_en/`)
 
-### Part Two: The Divergence (Chapters 5 to 9)
+| File                                                                                    | Description                                  |
+| --------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [Hancock_Sklyarov_Podcast_EN.md](book_en/podcast_en/Hancock_Sklyarov_Podcast_EN.md)     | Fictional JRE transcript, readable on GitHub |
+| [Hancock_Sklyarov_Podcast_EN.pdf](book_en/podcast_en/Hancock_Sklyarov_Podcast_EN.pdf)   | PDF for download                             |
+| [Hancock_Sklyarov_Podcast_EN.epub](book_en/podcast_en/Hancock_Sklyarov_Podcast_EN.epub) | EPUB for e-readers                           |
 
-Where they disagree, and what the disagreement reveals.
+### Russian Book (`book_ru/`)
 
-- **Chapter 5: The Species Question.** Human builders (Hancock) vs. non-human builders (Sklyarov). The root divergence.
-- **Chapter 6: The Cargo Cult.** How each reads the culture-bringer myths: benevolent human survivors vs. self-interested non-human operators.
-- **Chapter 7: The Consciousness Fork.** Hancock's ayahuasca/DMT research vs. Sklyarov's total engineering materialism.
-- **Chapter 8: The Withdrawal.** Where each researcher pulls back from the evidence and fills the gap with who they are.
-- **Chapter 9: Forty Books.** The scale of the combined output and what it means that no institution will engage with it.
+| File                                                                             | Description                   |
+| -------------------------------------------------------------------------------- | ----------------------------- |
+| [Same_Stones_Different_Gods_RU.md](book_ru/Same_Stones_Different_Gods_RU.md)     | Полный текст книги на русском |
+| [Same_Stones_Different_Gods_RU.pdf](book_ru/Same_Stones_Different_Gods_RU.pdf)   | PDF для скачивания            |
+| [Same_Stones_Different_Gods_RU.epub](book_ru/Same_Stones_Different_Gods_RU.epub) | EPUB для электронных книг     |
 
-### Part Three: The Pattern (Chapters 10 to 12)
+### Russian Chapters (`book_ru/chapters_ru/`)
 
-What the divergence itself tells us, beyond the archaeology.
+| File                                                                                   | Description                                        |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [00-introduction_ru.md](book_ru/chapters_ru/00-introduction_ru.md)                     | «Признание ИИ»: как и зачем эта книга была создана |
+| [01-tolerance-problem_ru.md](book_ru/chapters_ru/01-tolerance-problem_ru.md)           | Проблема допусков                                  |
+| [02-competence-inversion_ru.md](book_ru/chapters_ru/02-competence-inversion_ru.md)     | Инверсия компетенций                               |
+| [03-sampling-gap_ru.md](book_ru/chapters_ru/03-sampling-gap_ru.md)                     | Проблема забора проб                               |
+| [04-convergent-catastrophe_ru.md](book_ru/chapters_ru/04-convergent-catastrophe_ru.md) | Конвергентная катастрофа                           |
+| [05-species-question_ru.md](book_ru/chapters_ru/05-species-question_ru.md)             | Вопрос о виде строителей                           |
+| [06-cargo-cult_ru.md](book_ru/chapters_ru/06-cargo-cult_ru.md)                         | Карго-культ                                        |
+| [07-consciousness-fork_ru.md](book_ru/chapters_ru/07-consciousness-fork_ru.md)         | Развилка сознания                                  |
+| [08-withdrawal_ru.md](book_ru/chapters_ru/08-withdrawal_ru.md)                         | Отступление                                        |
+| [09-forty-books_ru.md](book_ru/chapters_ru/09-forty-books_ru.md)                       | Сорок книг                                         |
+| [10-invisible-college_ru.md](book_ru/chapters_ru/10-invisible-college_ru.md)           | Невидимый колледж                                  |
+| [11-refusal_ru.md](book_ru/chapters_ru/11-refusal_ru.md)                               | Отказ                                              |
+| [12-the-gap_ru.md](book_ru/chapters_ru/12-the-gap_ru.md)                               | Зазор                                              |
+| [13-sources_ru.md](book_ru/chapters_ru/13-sources_ru.md)                               | Источники                                          |
+| [14-author-note_ru.md](book_ru/chapters_ru/14-author-note_ru.md)                       | Заметка автора                                     |
 
-- **Chapter 10: The Invisible College.** Independent researchers operating outside institutional structures, historically and now.
-- **Chapter 11: The Refusal.** Why mainstream archaeology will not test the physical claims, and what that refusal costs.
-- **Chapter 12: The Gap.** The book's master concept: the space between evidence and explanation where the researcher's character becomes the determining variable.
+### Russian Podcast (`book_ru/podcast_ru/`)
 
-## Research Directory
+| File                                                                                    | Description                        |
+| --------------------------------------------------------------------------------------- | ---------------------------------- |
+| [Hancock_Sklyarov_Podcast_RU.md](book_ru/podcast_ru/Hancock_Sklyarov_Podcast_RU.md)     | Вымышленный подкаст JRE на русском |
+| [Hancock_Sklyarov_Podcast_RU.pdf](book_ru/podcast_ru/Hancock_Sklyarov_Podcast_RU.pdf)   | PDF для скачивания                 |
+| [Hancock_Sklyarov_Podcast_RU.epub](book_ru/podcast_ru/Hancock_Sklyarov_Podcast_RU.epub) | EPUB для электронных книг          |
 
-The `research/` directory contains the documents that powered the book's construction:
+### Research (`research/`)
 
-- **book_concept_gladwell_two_frameworks.md** : The architectural blueprint. Thesis, chapter outlines, named concepts, Gladwell structural mapping, writing discipline rules, tone rules, the "AI Confession" concept for the introduction. This is the document that told Claude Code what book to write.
-
-- **divergences_index.md** : Nineteen documented points of interpretive conflict between Hancock and Sklyarov, organized into seven thematic clusters. Each entry records the shared phenomenon, each thinker's interpretation, and the nature of the conflict. This is the book's structural skeleton.
-
-- **hancock_references_in_sklyarov.md** : Every instance where Sklyarov cites, references, or engages with Hancock's work across thirty-two books. The cross-citation analysis that establishes how much (and how little) each researcher knew of the other.
+| File                                                                                        | Description                                                                      |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [book_concept_gladwell_two_frameworks.md](research/book_concept_gladwell_two_frameworks.md) | Architectural blueprint: thesis, chapter outlines, named concepts, writing rules |
+| [divergences_index.md](research/divergences_index.md)                                       | 19 points of interpretive conflict across 7 thematic clusters                    |
+| [hancock_references_in_sklyarov.md](research/hancock_references_in_sklyarov.md)             | Every Sklyarov citation of Hancock across 32 books                               |
 
 ## How It Was Made
 
