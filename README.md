@@ -37,8 +37,8 @@ This is the *fastest way* into the material. If you do not want to read a 12-cha
 | File                                                                             | Description                         |
 | -------------------------------------------------------------------------------- | ----------------------------------- |
 | [Same_Stones_Different_Gods_EN.md](book_en/Same_Stones_Different_Gods_EN.md)     | Full manuscript, readable on GitHub |
-| [Same_Stones_Different_Gods_EN.pdf](book_en/Same_Stones_Different_Gods_EN.pdf)   | Formatted PDF for download          |
-| [Same_Stones_Different_Gods_EN.epub](book_en/Same_Stones_Different_Gods_EN.epub) | EPUB for e-readers                  |
+| [Same_Stones_Different_Gods_EN.pdf](https://github.com/vkorost/sklyarov-hancock-book/releases/latest/download/Same_Stones_Different_Gods_EN.pdf)   | Formatted PDF for download          |
+| [Same_Stones_Different_Gods_EN.epub](https://github.com/vkorost/sklyarov-hancock-book/releases/latest/download/Same_Stones_Different_Gods_EN.epub) | EPUB for e-readers                  |
 
 ### English Chapters (`book_en/chapters_en/`)
 
@@ -65,16 +65,16 @@ This is the *fastest way* into the material. If you do not want to read a 12-cha
 | File                                                                                    | Description                                  |
 | --------------------------------------------------------------------------------------- | -------------------------------------------- |
 | [Hancock_Sklyarov_Podcast_EN.md](book_en/podcast_en/Hancock_Sklyarov_Podcast_EN.md)     | Fictional JRE transcript, readable on GitHub |
-| [Hancock_Sklyarov_Podcast_EN.pdf](book_en/podcast_en/Hancock_Sklyarov_Podcast_EN.pdf)   | PDF for download                             |
-| [Hancock_Sklyarov_Podcast_EN.epub](book_en/podcast_en/Hancock_Sklyarov_Podcast_EN.epub) | EPUB for e-readers                           |
+| [Hancock_Sklyarov_Podcast_EN.pdf](https://github.com/vkorost/sklyarov-hancock-book/releases/latest/download/Hancock_Sklyarov_Podcast_EN.pdf)   | PDF for download                             |
+| [Hancock_Sklyarov_Podcast_EN.epub](https://github.com/vkorost/sklyarov-hancock-book/releases/latest/download/Hancock_Sklyarov_Podcast_EN.epub) | EPUB for e-readers                           |
 
 ### Russian Book (`book_ru/`)
 
 | File                                                                             | Description                   |
 | -------------------------------------------------------------------------------- | ----------------------------- |
 | [Same_Stones_Different_Gods_RU.md](book_ru/Same_Stones_Different_Gods_RU.md)     | Полный текст книги на русском |
-| [Same_Stones_Different_Gods_RU.pdf](book_ru/Same_Stones_Different_Gods_RU.pdf)   | PDF для скачивания            |
-| [Same_Stones_Different_Gods_RU.epub](book_ru/Same_Stones_Different_Gods_RU.epub) | EPUB для электронных книг     |
+| [Same_Stones_Different_Gods_RU.pdf](https://github.com/vkorost/sklyarov-hancock-book/releases/latest/download/Same_Stones_Different_Gods_RU.pdf)   | PDF для скачивания            |
+| [Same_Stones_Different_Gods_RU.epub](https://github.com/vkorost/sklyarov-hancock-book/releases/latest/download/Same_Stones_Different_Gods_RU.epub) | EPUB для электронных книг     |
 
 ### Russian Chapters (`book_ru/chapters_ru/`)
 
@@ -101,8 +101,8 @@ This is the *fastest way* into the material. If you do not want to read a 12-cha
 | File                                                                                    | Description                        |
 | --------------------------------------------------------------------------------------- | ---------------------------------- |
 | [Hancock_Sklyarov_Podcast_RU.md](book_ru/podcast_ru/Hancock_Sklyarov_Podcast_RU.md)     | Вымышленный подкаст JRE на русском |
-| [Hancock_Sklyarov_Podcast_RU.pdf](book_ru/podcast_ru/Hancock_Sklyarov_Podcast_RU.pdf)   | PDF для скачивания                 |
-| [Hancock_Sklyarov_Podcast_RU.epub](book_ru/podcast_ru/Hancock_Sklyarov_Podcast_RU.epub) | EPUB для электронных книг          |
+| [Hancock_Sklyarov_Podcast_RU.pdf](https://github.com/vkorost/sklyarov-hancock-book/releases/latest/download/Hancock_Sklyarov_Podcast_RU.pdf)   | PDF для скачивания                 |
+| [Hancock_Sklyarov_Podcast_RU.epub](https://github.com/vkorost/sklyarov-hancock-book/releases/latest/download/Hancock_Sklyarov_Podcast_RU.epub) | EPUB для электронных книг          |
 
 ### Research (`research/`)
 
